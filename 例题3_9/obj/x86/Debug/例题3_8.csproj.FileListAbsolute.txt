@@ -1,0 +1,10 @@
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_8\bin\Debug\例题3_8.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_8\bin\Debug\例题3_8.pdb
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_8\obj\x86\Debug\例题3_8.Properties.Resources.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_8\obj\x86\Debug\例题3_8.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_8\obj\x86\Debug\例题3_8.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_8\obj\x86\Debug\例题3_8.pdb
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_8\obj\x86\Debug\例题3_8.Form1.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_8\obj\x86\Debug\例题3_8.Form2.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_8\obj\x86\Debug\例题3_8.Form3.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_8\obj\x86\Debug\例题3_8.Form4.resources

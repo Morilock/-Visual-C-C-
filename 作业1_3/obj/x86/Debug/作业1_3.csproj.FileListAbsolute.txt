@@ -1,0 +1,14 @@
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_3\bin\Debug\作业1_3.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_3\bin\Debug\作业1_3.pdb
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_3\obj\x86\Debug\作业1_3.Form1.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_3\obj\x86\Debug\作业1_3.Properties.Resources.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_3\obj\x86\Debug\作业1_3.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_3\obj\x86\Debug\作业1_3.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_3\obj\x86\Debug\作业1_3.pdb
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\作业1_3\bin\Debug\作业1_3.exe
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\作业1_3\bin\Debug\作业1_3.pdb
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\作业1_3\obj\x86\Debug\作业1_3.Form1.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\作业1_3\obj\x86\Debug\作业1_3.Properties.Resources.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\作业1_3\obj\x86\Debug\作业1_3.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\作业1_3\obj\x86\Debug\作业1_3.exe
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\作业1_3\obj\x86\Debug\作业1_3.pdb
