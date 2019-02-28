@@ -1,0 +1,14 @@
+c:\users\dell20150825\documents\visual studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_7\bin\Debug\例题3_7.exe
+c:\users\dell20150825\documents\visual studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_7\bin\Debug\例题3_7.pdb
+c:\users\dell20150825\documents\visual studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_7\obj\x86\Debug\例题3_7.Form1.resources
+c:\users\dell20150825\documents\visual studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_7\obj\x86\Debug\例题3_7.Properties.Resources.resources
+c:\users\dell20150825\documents\visual studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_7\obj\x86\Debug\例题3_7.csproj.GenerateResource.Cache
+c:\users\dell20150825\documents\visual studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_7\obj\x86\Debug\例题3_7.exe
+c:\users\dell20150825\documents\visual studio 2010\Projects\2015210830_于浩正_CSharp课程设计\例题3_7\obj\x86\Debug\例题3_7.pdb
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\例题3_7\bin\Debug\例题3_7.exe
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\例题3_7\bin\Debug\例题3_7.pdb
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\例题3_7\obj\x86\Debug\例题3_7.Form1.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\例题3_7\obj\x86\Debug\例题3_7.Properties.Resources.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\例题3_7\obj\x86\Debug\例题3_7.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\例题3_7\obj\x86\Debug\例题3_7.exe
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\例题3_7\obj\x86\Debug\例题3_7.pdb
