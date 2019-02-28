@@ -1,0 +1,40 @@
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\AddressList\AddressList\bin\Debug\AddressList.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\AddressList\AddressList\bin\Debug\AddressList.pdb
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\AddressList\AddressList\obj\x86\Debug\AddressList.Form1.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\AddressList\AddressList\obj\x86\Debug\AddressList.Properties.Resources.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\AddressList\AddressList\obj\x86\Debug\AddressList.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\AddressList\AddressList\obj\x86\Debug\AddressList.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\AddressList\AddressList\obj\x86\Debug\AddressList.pdb
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\AddressList\AddressList\obj\x86\Debug\AddressList.Form2.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\AddressList\AddressList\obj\x86\Debug\AddressList.Form3.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\AddressList\AddressList\obj\x86\Debug\AddressList.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_4改\AddressList\bin\Debug\AddressList.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_4改\AddressList\bin\Debug\AddressList.pdb
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_4改\AddressList\obj\x86\Debug\AddressList.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_4改\AddressList\obj\x86\Debug\AddressList.Form1.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_4改\AddressList\obj\x86\Debug\AddressList.Form2.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_4改\AddressList\obj\x86\Debug\AddressList.Form3.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_4改\AddressList\obj\x86\Debug\AddressList.Properties.Resources.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_4改\AddressList\obj\x86\Debug\AddressList.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_4改\AddressList\obj\x86\Debug\AddressList.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\作业1_4改\AddressList\obj\x86\Debug\AddressList.pdb
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\bin\Debug\AddressList.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\bin\Debug\AddressList.pdb
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.Form1.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.Form2.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.Form3.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.Properties.Resources.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.pdb
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\bin\Debug\AddressList.exe
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\bin\Debug\AddressList.pdb
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.Form1.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.Form2.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.Form3.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.Properties.Resources.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.exe
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\AddressList\AddressList\obj\x86\Debug\AddressList.pdb
