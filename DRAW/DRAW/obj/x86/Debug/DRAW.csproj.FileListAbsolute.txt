@@ -1,0 +1,24 @@
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\DRAW\DRAW\obj\x86\Debug\DRAW.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\DRAW\DRAW\obj\x86\Debug\DRAW.DRAWForm.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\DRAW\DRAW\obj\x86\Debug\DRAW.Properties.Resources.resources
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\DRAW\DRAW\obj\x86\Debug\DRAW.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\DRAW\DRAW\bin\Debug\DRAW.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\DRAW\DRAW\bin\Debug\DRAW.pdb
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\DRAW\DRAW\obj\x86\Debug\DRAW.exe
+C:\Users\dell20150825\Documents\Visual Studio 2010\Projects\DRAW\DRAW\obj\x86\Debug\DRAW.pdb
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\bin\Debug\DRAW.exe
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\bin\Debug\DRAW.pdb
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.DRAWForm.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.Properties.Resources.resources
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.exe
+C:\Users\dell20150825\Desktop\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.pdb
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\bin\Debug\DRAW.exe
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\bin\Debug\DRAW.pdb
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.csprojResolveAssemblyReference.cache
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.DRAWForm.resources
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.Properties.Resources.resources
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.csproj.GenerateResource.Cache
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.exe
+C:\Users\dell20150825\Desktop\课业\课程作业\C#Projects\2015210830_于浩正_CSharp课程设计\DRAW\DRAW\obj\x86\Debug\DRAW.pdb
